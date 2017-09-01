@@ -1,6 +1,8 @@
 unbreakable cipher (Reversing; 40 pts.)
 ====
 
+> This task checks your basic reversing and guessing skills.
+
 Can u break it? Flag format is `flag{****}`
 
 ```bash
@@ -11,7 +13,3 @@ GTGE
 ```
 
 attached files: [unbreakable](./unbreakable), [cipher.txt](./cipher.txt)
-
-Hint:
-
-* [`unbreakable.syms`](./unbreakable.syms)
