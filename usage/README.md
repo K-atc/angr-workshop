@@ -2,6 +2,7 @@ Chapter 1. usage
 ====
 
 Level: Medium Easy
+
 Time: this may take 10 - 20 minutes
 
 Contents
