@@ -1,4 +1,4 @@
-unbreakable cipher (Reversing; 40 pts.)
+unbreakable cipher (Reversing; 30 pts.)
 ====
 
 > This task checks your basic reversing and guessing skills.
