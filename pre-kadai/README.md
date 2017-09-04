@@ -3,7 +3,7 @@ pre-kadai
 
 Here's some reversing problems.
 
-Reversing X Crypto
+Reversing and Crypto
 ----
-* [unbreakable1](unbreakable1)
-* [unbreakable2](unbreakable2)
+* [unbreakable cipher](unbreakable1)
+* [unbreakable cipher 2](unbreakable2)
