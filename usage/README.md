@@ -24,7 +24,7 @@ Flag format is `angr{***}`.
 
 (4) What should `argv[1]` be? (< 1 min)
 
-(5) When usage of `./usage` is collect, what happens? (< 1 min)
+(5) When usage of `./usage` is correct, what happens? (< 1 min)
 
 (6) Write solver script using angr. If you trying this excercise in own environment, run `echo angr{dummy} > flag` in your shell beforehand. (5 - 15 min)
 

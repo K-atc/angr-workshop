@@ -56,4 +56,4 @@ else:
 ```
 
 - - -
-Did you have read up on this chapter? OK, it's angr time!! Let's go on [Chapter 1](../usage)!!
+Did you have read up on this chapter? OK, it's a angr time!! Let's go on [Chapter 1](../usage)!!
